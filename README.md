@@ -25,4 +25,4 @@
 
 ### Devs
 
-## -|- iiMaxxi -|- Isqne
+## -|- iiMaxxi -|- Isqne -|-
