@@ -22,3 +22,7 @@
 #### python richpresence.py
 
 ## Obs: Você precisa ter nstalado o aplicativo Python para conseguir rodar o programa!
+
+### Devs
+
+## -|- iiMaxxi -|- Isqne
